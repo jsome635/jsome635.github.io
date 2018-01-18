@@ -80,7 +80,11 @@
       "gpa": "3.47",
       "courses": [
         "EE160 - Programming for Engineers",
-        "EE205 - Object Oriented Programming"
+        "EE205 - Object Oriented Programming",
+        "EE211 - Basic Circuit Analysis I",
+        "EE260 - Introduction to Digital Design",
+        "EE361 - Digital System & Computer Digital",
+        "EE362 - Discrete Math for Engineers"
       ]
     }
   ],
