@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: images/android-app-square.jpg
 title: Android App Development - Tip Calculator
 permalink: projects/tipcalculator
 date: 2017-08-21
