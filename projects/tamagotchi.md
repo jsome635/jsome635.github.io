@@ -30,4 +30,4 @@ For this project, my group of three members made a simplified version of this ga
     <img class="ui image" src="../images/tamagotchi-grave.PNG">
     <figcaption>5.Adult   6.Parent    7.Lights off    8.Grave</figcaption>
   </div>
-</center
+</center>
