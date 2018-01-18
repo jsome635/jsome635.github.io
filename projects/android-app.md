@@ -12,7 +12,7 @@ summary: My partner and I developed an Android app that dynamically calculated t
 ---
 
 <figure>
-  <img class="ui medium right floated rounded image" src=images/android-app-ocr.jpg>
+  <img class="ui medium right floated rounded image" src="/images/android-app-ocr.jpg">
   <figcaption>Testing OCR for parsing correct information.</figcaption>
 </figure>
 
