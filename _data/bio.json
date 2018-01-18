@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jacob Somera",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/profile-pic.jpg",
+    "email": "jsome635@hawaii.edu",
+    "phone": "",
+    "website": "https://jsome635.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "jsome635",
+        "url": "http://github.com/jsome635"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Jacob Somera",
+        "url": "http://linkedin.com/in/jacobsomera"
       },
       {
         "network": "twitter",
@@ -39,19 +39,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Game Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Virtual Reality",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -63,33 +61,36 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Verilog"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
+        "Android Studio",
+        "CLion"
         "g++",
-        "TI LaunchPad"
+        "Git/GitHub",
+        "Google Test",
+        "MinGW",
+        "Vivado",
+        "Windows"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-08-24",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.47",
       "courses": [
+        "EE160 - Programming for Engineers\n",
+        "EE205 - Object Oriented Programming"
       ]
     }
   ],
