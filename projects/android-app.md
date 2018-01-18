@@ -15,7 +15,7 @@ For this project, my partner and I aimed to create a tip calculator for the peop
 
 
 <center>
-  <img src="/images/android-app-ocr.png">
+  <img class="ui medium floated image" src="/images/android-app-ocr.png">
 </center>
 <center>General test of OCR for correct parsing.</center>
 
