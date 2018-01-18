@@ -70,7 +70,7 @@
       "level": "",
       "keywords": [
         "Android Studio",
-        "CLion"
+        "CLion",
         "g++",
         "Git/GitHub",
         "Google Test",
@@ -89,7 +89,7 @@
       "endDate": "Present",
       "gpa": "3.47",
       "courses": [
-        "EE160 - Programming for Engineers",
+        "EE160 - Programming for Engineers\n",
         "EE205 - Object Oriented Programming"
       ]
     }
