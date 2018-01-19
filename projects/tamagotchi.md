@@ -21,7 +21,7 @@ For this project, my group of three members made a simplified version of this ga
     <img class="ui image" src="../images/tamagotchi-baby.PNG">
   </div>
     <figcaption>1.Egg   2.Baby</figcaption>
-  <div>
+  <div class="ui medium rounded images">
     <img class="ui image" src="../images/tamagotchi-kid.PNG">
     <img class="ui image" src="../images/tamagotchi-teen.PNG">
   </div>
@@ -31,7 +31,7 @@ For this project, my group of three members made a simplified version of this ga
     <img class="ui image" src="../images/tamagotchi-parent.PNG">
   </div>
   <figcaption>5.Adult   6.Parent</figcaption>
-  <div>
+  <div class="ui medium rounded images">
     <img class="ui image" src="../images/tamagotchi-lights.PNG">
     <img class="ui image" src="../images/tamagotchi-grave.PNG">
   </div>
