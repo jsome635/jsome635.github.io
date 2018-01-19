@@ -19,15 +19,21 @@ For this project, my group of three members made a simplified version of this ga
   <div class="ui medium rounded images">
     <img class="ui image" src="../images/tamagotchi-egg.PNG">
     <img class="ui image" src="../images/tamagotchi-baby.PNG">
+  </div>
+    <figcaption>1.Egg   2.Baby</figcaption>
+  <div>
     <img class="ui image" src="../images/tamagotchi-kid.PNG">
     <img class="ui image" src="../images/tamagotchi-teen.PNG">
   </div>
-  <figcaption>1.Egg   2.Baby    3.Kid   4.Teen</figcaption>
+  <figcaption>3.Kid   4.Teen</figcaption>
   <div class="ui medium rounded images">
     <img class="ui image" src="../images/tamagotchi-adult.PNG">
     <img class="ui image" src="../images/tamagotchi-parent.PNG">
+  </div>
+  <figcaption>5.Adult   6.Parent</figcaption>
+  <div>
     <img class="ui image" src="../images/tamagotchi-lights.PNG">
     <img class="ui image" src="../images/tamagotchi-grave.PNG">
   </div>
-  <figcaption>5.Adult   6.Parent    7.Lights off    8.Grave</figcaption>
+  <figcaption>7.Lights off    8.Grave</figcaption>
 </center>
