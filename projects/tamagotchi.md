@@ -21,13 +21,13 @@ For this project, my group of three members made a simplified version of this ga
     <img class="ui image" src="../images/tamagotchi-baby.PNG">
     <img class="ui image" src="../images/tamagotchi-kid.PNG">
     <img class="ui image" src="../images/tamagotchi-teen.PNG">
-    <figcaption>1.Egg   2.Baby    3.Kid   4.Teen</figcaption>
   </div>
+  <figcaption>1.Egg   2.Baby    3.Kid   4.Teen</figcaption>
   <div class="ui small rounded images">
     <img class="ui image" src="../images/tamagotchi-adult.PNG">
     <img class="ui image" src="../images/tamagotchi-parent.PNG">
     <img class="ui image" src="../images/tamagotchi-lights.PNG">
     <img class="ui image" src="../images/tamagotchi-grave.PNG">
-    <figcaption>5.Adult   6.Parent    7.Lights off    8.Grave</figcaption>
   </div>
+  <figcaption>5.Adult   6.Parent    7.Lights off    8.Grave</figcaption>
 </center>
