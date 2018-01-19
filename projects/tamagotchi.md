@@ -4,7 +4,7 @@ type: project
 image: images/tamagotchi-square.png
 title: Tamagotchi
 permalink: projects/tamagotchi
-date: 2017-02-25
+date: 2017-04-15
 labels:
   - C++
   - GitHub
