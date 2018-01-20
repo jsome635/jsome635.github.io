@@ -40,7 +40,7 @@ or something similar. However, as seen in the <a href="https://jsfiddle.net/jsom
 <p>
 <right>
   <img class="ui medium floated rounded image" src="/images/javascript1-for.png">
-  <figcaption>TA's answer for practice WOD.</figcaption>
+  <caption allign="bottom">TA's answer for practice WOD.</caption>
 </right>
 </p>
 
