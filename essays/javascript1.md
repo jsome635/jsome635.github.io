@@ -37,12 +37,12 @@ or something similar. However, as seen in the <a href="https://jsfiddle.net/jsom
   }
 </pre>
 
-<right>
-  <img class="ui right large floated rounded image" src="/images/javascript1-for.png"
-  <figcaption>TA's answer for practice WOD.</figcaption>
-  <figcaption> </figcaption>
-  </img>
-</right>
+<div>
+  <right>
+    <img class="ui large floated rounded image" src="/images/javascript1-for.png">
+    <figcaption>TA's answer for practice WOD.</figcaption>
+  </right>
+</div>
 
 Another interesting that I learned is that you can use regular expressions to search and manipulate strings. When learning C and C++, we needed to make functions to do these operations. Even if these two features end up being unimportant and not frequently used, they allow us to program in JavaScript more efficiently, and our end code will be more understandable for anyone who has to debug or read our code.
 
