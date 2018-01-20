@@ -35,10 +35,10 @@ or something similar. However, as seen in the <a href="https://jsfiddle.net/jsom
   }
 </pre>
 
-<right>
-  <img class="ui medium floated rounded image" src="/images/javascript1-for.png">
+<center>
+  <img class="ui medium rounded image" src="/images/javascript1-for.png">
   <caption class"floated caption">TA's answer for practice WOD.</caption>
-</right>
+</center>
 
 Another interesting that I learned is that you can use regular expressions to search and manipulate strings. When learning C and C++, we needed to make functions to do these operations. Even if these two features end up being unimportant and not frequently used, they allow us to program in JavaScript more efficiently, and our end code will be more understandable for anyone who has to debug or read our code.
 
