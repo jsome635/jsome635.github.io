@@ -19,18 +19,18 @@ Learning JavaScript was interesting because it deals with a handful of things di
 
 Over this week, I learned two new things about JavaScript. During our practice WOD, the teaching assistant (TA) showed us a new way to iterate through a for loop if the condition of the loop involves the length of the array. I have always known for loops to be written as:
 
-<code>
-    for(count = 0; count < array.length; count++){
+<code class="JavaScript">
+  for(count = 0; count < array.length; count++){
       ...
-    }
+  }
 </code>
 
 or something similar. However, as seen in the solution of the sample WOD, the TA wrote:
 
-<code>
-for(let food of foodList){
+<code class="JavaScript>
+  for(let food of foodList){
       ...
-    }
+  }
 </code>
 
 Another interesting that I learned is that you can use regular expressions to search and manipulate strings. When learning C and C++, we needed to make functions to do these operations. Even if these two features end up being unimportant and not frequently used, they allow us to program in JavaScript more efficiently, and our end code will be more understandable for anyone who has to debug or read our code.
