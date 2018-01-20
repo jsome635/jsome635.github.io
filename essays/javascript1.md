@@ -29,11 +29,11 @@ Learning JavaScript was interesting because it deals with a handful of things di
 </right>
 
 Over this week, I learned two new things about JavaScript. During our practice WOD, the teaching assistant (TA) showed us a new way to iterate through a for loop if the condition of the loop involves the length of the array. I have always known for loops to be written as:
-<pre>
+<code>
   for(count = 0; count < array.length; count++){
     ...
   }
-</pre>
+</code>
 or something similar. However, as seen in the solution of the sample WOD, the TA wrote:
 <pre>
   for(let food of foodList){
@@ -44,5 +44,5 @@ Another interesting that I learned is that you can use regular expressions to se
 
 ## Thoughts on Athletic Software Engineering
 
-Even though it is only the second week of the Spring semester, I am beginning to feel the stress that comes with this style of learning. Between other classes, projects, commuting, and personal life, it is difficult to do everything that I would like to. However, I do enjoy this learning style and hope that it will work out in the end. This method of learning makes sense to me, what good will listening to a professor talk about code do for me? 
+Even though it is only the second week of the Spring semester, I am beginning to feel the stress that comes with this style of learning. Between other classes, projects, commuting, and personal life, it is difficult to do everything that I would like to. However, I do enjoy this learning style and hope that it will work out in the end. This method of learning makes sense to me, what good will listening to a professor talk about code do for me? Personally, I do not think the home practice WODs really help prepare me for the actual WOD. It allows us to practice writing code, but cannot recreate the in-class or practice WOD. First, we can think a little longer about our solution at home than we can in-class. Additionally, if you are doing multiple attempts consecutive, any attempt after the first feels like you are simply reiterating the solution. As a result, I think that it is very important to attend at least one of the TA's practice WODs.
 
