@@ -17,6 +17,16 @@ During this past week of ICS 314, we learned the basics of JavaScript: variable 
 
 Learning JavaScript was interesting because it deals with a handful of things differently than C, C++, or Java. Since I have been programming in C and C++ for about 2 years, it was difficult to get out of the habit of declaring a variable as one datatype. JavaScript lets variables be whatever datatype it needs to be, something I wish at times was possible in C or C++. A corollary of this is that a single array can store data of different datatypes. Additionally, because of my experience with C and C++, I was so used to fixed-size arrays. I was surprised while I was going through <a href="https://www.freecodecamp.org/">the JavaScript tutorial</a> to learn that it is possible to simply push and unshift data onto the array. To do something similar in C or C++, you need to used stacks, queues, or linked lists and struggle with managing the data and all the pointers. Arrays in JavaScript are much more flexible than arrays, stacks, queues, and linked lists in C and C++. I look forward to learning more of these simple differences that JavaScript provides compared to other languages.
 
+<center>
+  <img class="ui large center rounded image" src="/images/javascript1-pop.png">
+  <figcaption>Tutorial for popping data onto arrays.</figcaption>
+</center>
+
+<right>
+  <img class="ui large floated rounded image" src="/images/javascript1-wod.png">
+  <figcaption>Tutorial for popping data onto arrays.</figcaption>
+</right>
+
 Over this week, I learned two new things about JavaScript. During our practice WOD, the teaching assistant (TA) showed us a new way to iterate through a for loop if the condition of the loop involves the length of the array. I have always known for loops to be written as:
 <pre>
   for(count = 0; count < array.length; count++){
@@ -33,5 +43,5 @@ Another interesting that I learned is that you can use regular expressions to se
 
 ## Thoughts on Athletic Software Engineering
 
-Even though it is only the second week of the Spring semester, I am begining to feel the stress that comes. However
+Even though it is only the second week of the Spring semester, I am beginning to feel the stress that comes with this style of learning. Between other classes, projects, commuting, and personal life, it is difficult to do everything that I would like to. However, I do enjoy this learning style and hope that it will work out in the end. This method of learning makes sense to me, what good will listening to a professor talk about code do for me? 
 
