@@ -29,7 +29,7 @@ Over this week, I learned two new things about JavaScript. During our practice W
     ...
   }
 </pre>
-or something similar. However, as seen in the solution of the sample WOD, the TA wrote:
+or something similar. However, as seen in the <a href="https://jsfiddle.net/jsome635/a7LbLzgq/">solution of the sample WOD</a>, the TA wrote:
 <pre>
   for(let food of foodList){
     ...
