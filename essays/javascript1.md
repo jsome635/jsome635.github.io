@@ -38,7 +38,7 @@ or something similar. However, as seen in the <a href="https://jsfiddle.net/jsom
 </pre>
 
 <right>
-  <img class="ui right large floated rounded image" src="/images/javascript1-for.png">
+  <img class="ui right large floated rounded image" src="/images/javascript1-for.png"
   <figcaption>TA's answer for practice WOD.</figcaption>
   <figcaption> </figcaption>
   </img>
