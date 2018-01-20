@@ -20,7 +20,8 @@ Learning JavaScript was interesting because it deals with a handful of things di
 <center>
   <img class="ui center rounded image" src="/images/javascript1-pop.png">
   <figcaption>Tutorial for popping data onto arrays.</figcaption>
-  <figcaption> </figcaption>
+  <figcaption>
+  </figcaption>
 </center>
 
 Over this week, I learned two new things about JavaScript. During our <a href="http://courses.ics.hawaii.edu/ics314s18/morea/javascript-1/danny-wod-js1-kl2.html">practice WOD</a>, the teaching assistant (TA) showed us a new way to iterate through a for loop if the condition of the loop involves the length of the array. I have always known for loops to be written as:
