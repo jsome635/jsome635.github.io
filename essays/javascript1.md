@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: languageArray.push("JavaScript");
+title: JavaScript1
 date: 2017-01-19
 labels:
   - Software Engineering
