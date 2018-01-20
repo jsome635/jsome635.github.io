@@ -17,12 +17,11 @@ During this past week of ICS 314, we learned the basics of JavaScript: variable 
 
 Learning JavaScript was interesting because it deals with a handful of things differently than C, C++, or Java. Since I have been programming in C and C++ for about 2 years, it was difficult to get out of the habit of declaring a variable as one datatype. JavaScript lets variables be whatever datatype it needs to be, something I wish at times was possible in C or C++. A corollary of this is that a single array can store data of different datatypes. Additionally, because of my experience with C and C++, I was so used to fixed-size arrays. I was surprised while I was going through <a href="https://www.freecodecamp.org/">the JavaScript tutorial</a> to learn that it is possible to simply push and unshift data onto the array. To do something similar in C or C++, you need to used stacks, queues, or linked lists and struggle with managing the data and all the pointers. Arrays in JavaScript are much more flexible than arrays, stacks, queues, and linked lists in C and C++. I look forward to learning more of these simple differences that JavaScript provides compared to other languages.
 
-<p>
 <center>
   <img class="ui center rounded image" src="/images/javascript1-pop.png">
   <figcaption>Tutorial for popping data onto arrays.</figcaption>
 </center>
-</p>
+
 Over this week, I learned two new things about JavaScript. During our <a href="http://courses.ics.hawaii.edu/ics314s18/morea/javascript-1/danny-wod-js1-kl2.html">practice WOD</a>, the teaching assistant (TA) showed us a new way to iterate through a for loop if the condition of the loop involves the length of the array. I have always known for loops to be written as:
 <pre>
   for(count = 0; count < array.length; count++){
@@ -36,12 +35,10 @@ or something similar. However, as seen in the <a href="https://jsfiddle.net/jsom
   }
 </pre>
 
-<table class="image">
 <right>
   <img class="ui medium floated rounded image" src="/images/javascript1-for.png">
-  <caption allign="bottom">TA's answer for practice WOD.</caption>
+  <caption class"floated caption" allign="bottom">TA's answer for practice WOD.</caption>
 </right>
-</table>
 
 Another interesting that I learned is that you can use regular expressions to search and manipulate strings. When learning C and C++, we needed to make functions to do these operations. Even if these two features end up being unimportant and not frequently used, they allow us to program in JavaScript more efficiently, and our end code will be more understandable for anyone who has to debug or read our code.
 
