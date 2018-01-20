@@ -30,11 +30,9 @@ Learning JavaScript was interesting because it deals with a handful of things di
 
 Over this week, I learned two new things about JavaScript. During our practice WOD, the teaching assistant (TA) showed us a new way to iterate through a for loop if the condition of the loop involves the length of the array. I have always known for loops to be written as:
 <pre>
-<code>
   for(count = 0; count < array.length; count++){
     ...
   }
-</code>
 </pre>
 or something similar. However, as seen in the solution of the sample WOD, the TA wrote:
 <pre>
