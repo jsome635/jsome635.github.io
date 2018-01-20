@@ -30,7 +30,7 @@ Over this week, I learned two new things about JavaScript. During our <a href="h
   }
 </pre>
 
-or something similar. However, as seen in the <a href="https://jsfiddle.net/jsome635/a7LbLzgq/">solution of the sample WOD</a>, the TA wrote:
+or something similar. However, as seen in the <a href="https://jsfiddle.net/jsome635/a7LbLzgq/">solution of the practice WOD</a>, the TA wrote:
 
 <pre>
   for(let food of foodList){
