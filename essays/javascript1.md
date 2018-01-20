@@ -23,7 +23,7 @@ Learning JavaScript was interesting because it deals with a handful of things di
   <figcaption> </figcaption>
 </center>
 
-Over this week, I learned two new things about JavaScript. During our practice WOD, the teaching assistant (TA) showed us a new way to iterate through a for loop if the condition of the loop involves the length of the array. I have always known for loops to be written as:
+Over this week, I learned two new things about JavaScript. During our <a href="http://courses.ics.hawaii.edu/ics314s18/morea/javascript-1/danny-wod-js1-kl2.html">practice WOD</a>, the teaching assistant (TA) showed us a new way to iterate through a for loop if the condition of the loop involves the length of the array. I have always known for loops to be written as:
 <pre>
   for(count = 0; count < array.length; count++){
     ...
