@@ -23,7 +23,7 @@ Learning JavaScript was interesting because it deals with a handful of things di
 </center>
 
 <right>
-  <img class="ui large floated rounded image" src="/images/javascript1-wod.png">
+  <img class="ui large floated rounded image" src="/images/javascript1-for.png">
   <figcaption>Tutorial for popping data onto arrays.</figcaption>
 </right>
 
