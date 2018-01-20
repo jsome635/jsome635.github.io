@@ -28,7 +28,7 @@ or something similar. However, as seen in the solution of the sample WOD, the TA
   for(let food of foodList){
     ...
   }
-<pre>
+</pre>
 Another interesting that I learned is that you can use regular expressions to search and manipulate strings. When learning C and C++, we needed to make functions to do these operations. Even if these two features end up being unimportant and not frequently used, they allow us to program in JavaScript more efficiently, and our end code will be more understandable for anyone who has to debug or read our code.
 
 ## Thoughts on Athletic Software Engineering
