@@ -89,11 +89,38 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Transpiler Project",
+      "website": "",
+      "position": "Software Developer",
+      "startDate": "2017-01-11",
+      "endDate": "2017-05-06",
+      "summary": "Created a ",
+      "highlights": [
+        "Create a Scheme interpreter following the rules outlined in R7RS.",
+        "Worked for 16 weeks in a team of 6 to create a parser and REPL.",
+        "Developed the code using C++, GitHub, and GoogleTest."
+      ]
+    },
+    {
+      "organization": "Android App Development",
+      "website": "",
+      "position": "Software Developer",
+      "startDate": "2017-06-05",
+      "endDate": "2017-12-12",
+      "summary": "Developed Tip calculator",
+      "highlights": [
+        "Calculate tip dynamically from user input, OCR, or selectable options.",
+        "Focused on data manipulation and dynamic calculation.",
+        "Developed app using Java and Android Studio."
+
+      ]
+    }
   ],
   "awards": [
     {
       "title": "Dean's List",
-      "date": "Fall 2015 - Spring 2016",
+      "date": "Fall 2015, Spring 2016",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Recieved for having semester GPA of 3.5 or higher."
     }
