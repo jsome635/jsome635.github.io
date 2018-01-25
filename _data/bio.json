@@ -90,12 +90,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Transpiler Project",
-      "website": "",
+      "organization": "UH Manoa Transpiler Project - Shaka Scheme",
+      "website": "https://github.com/uhmanoa-transpiler-project/shaka-scheme",
       "position": "Software Developer",
       "startDate": "2017-01-11",
       "endDate": "2017-05-06",
-      "summary": "Created a ",
+      "summary": "Contributed to the creation of a Scheme interpreter.",
       "highlights": [
         "Create a Scheme interpreter following the rules outlined in R7RS.",
         "Worked for 16 weeks in a team of 6 to create a parser and REPL.",
@@ -104,16 +104,15 @@
     },
     {
       "organization": "Android App Development",
-      "website": "",
+      "website": "http://ee.hawaii.edu/student/project.php?stc=1&pco=2&pro=10",
       "position": "Software Developer",
       "startDate": "2017-06-05",
       "endDate": "2017-12-12",
-      "summary": "Developed Tip calculator",
+      "summary": "Co-developed Tip Calculator.",
       "highlights": [
         "Calculate tip dynamically from user input, OCR, or selectable options.",
         "Focused on data manipulation and dynamic calculation.",
         "Developed app using Java and Android Studio."
-
       ]
     }
   ],
