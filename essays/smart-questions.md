@@ -17,9 +17,11 @@ In the article, the authors point out some very compelling strategies for asking
 
 ## How to Look Like a Fool
 
+<img class="ui medium right floated rounded image" src="/images/smart_questions-bad.png">
+
 Among the thousands of questions that are posted on StackExchange, there are many examples of bad questions. For instance, <a href="https://stackoverflow.com/questions/2210928/how-i-do-fibonaci-sequence-under-1000">"How do I fibonaci squence under 1000?"</a>. The poster is needs help with code for a Fibonacci sequence. There are many things wrong with this post. First, the title has grammatical errors. Not only is Fibonacci spelt wrong, but the user is also missing words like a _do_ between "How" and "I". Additionally, the title is unclear as to what the user's goal is. Is he trying to solve the the sequence for all numbers under 1000 or the first 1000 numbers. In the body of the post, he adds no more information about his problem other than his block of code and a "I'm so confused?? :(". In the replies to the question, you can blatantly see that this is a bad question. They are asking if the poster even understands the Fibonacci sequence, and tell him to explain more. Additionally, creating a function that prints the Fibonacci sequence is a very common problem. There are probably other posts that have asked the same question, but in a way that was more clear and concise. This user simply decided to ignore everything that makes a question smart. 
 
-<img class="ui medium rounded image" src="/images/smart_questions-bad.png">
+
 
 ## Contributing to the Community
 
