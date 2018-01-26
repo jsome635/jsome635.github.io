@@ -31,6 +31,6 @@ Here's one smart question that recieved hundreds of thousands of views, thousand
 
 ## Don't Be the Fool
 
-<img class="ui large left floated rounded image" src="/images/smart_questions-thinking.jpg">
+<img class="ui medium left floated rounded image" src="/images/smart_questions-thinking.jpg">
 
 Obviously, the same question can be asked many different ways, and the way we ask them changes what kind of answer we get back. Ask a bad question, and you may not get what you are looking for. Ask a smart question, and you may receive more insight than you expected. When asking questions on forums, discussions, and mailing lists, we are dealing with other people who are familiar with the problems, technology, and topics that are being asked about. There is not as much need for layman's terms; get technical, discuss your problem, be informative. Whenever we start to struggle with bugs and errors, we quickly take to Google to search for the answer. When the answer is not what we were looking for or non-existent, that might mean that it is our turn to ask the questions. Just make sure to ask them the smart way.
