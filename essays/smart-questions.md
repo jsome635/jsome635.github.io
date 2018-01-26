@@ -10,7 +10,7 @@ labels:
 
 ## What Makes a Question "Smart"? 
 
-<a href="http://www.catb.org/esr/faqs/smart-questions.html>"How to Ask Questions the Smart Way"</a>
+<a href="http://www.catb.org/esr/faqs/smart-questions.html">How to Ask Questions the Smart Way"</a>
 
 ## How to Look Like a Fool
 
