@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title:Asking Smart Questions
+title: Asking Smart Questions
 date: 2017-01-25
 labels:
   - Community
