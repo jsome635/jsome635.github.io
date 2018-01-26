@@ -23,12 +23,10 @@ In the article, the authors point out some very compelling strategies for asking
 
 Among the thousands of questions that are posted on StackExchange, there are many examples of bad questions. For instance, <a href="https://stackoverflow.com/questions/2210928/how-i-do-fibonaci-sequence-under-1000">"How do I fibonaci squence under 1000?"</a>. The poster is needs help with code for a Fibonacci sequence. There are many things wrong with this post. First, the title has grammatical errors. Not only is Fibonacci spelt wrong, but the user is also missing words like a _do_ between "How" and "I". Additionally, the title is unclear as to what the user's goal is. Is he trying to solve the the sequence for all numbers under 1000 or the first 1000 numbers. In the body of the post, he adds no more information about his problem other than his block of code and a "I'm so confused?? :(". In the replies to the question, you can blatantly see that this is a bad question. They are asking if the poster even understands the Fibonacci sequence, and tell him to explain more. Additionally, creating a function that prints the Fibonacci sequence is a very common problem. There are probably other posts that have asked the same question, but in a way that was more clear and concise. This user simply decided to ignore everything that makes a question smart. 
 
-
-
 ## Contributing to the Community
 
 <img class="ui large left floated rounded image" src="/images/smart_questions-good.png">
 
-<a href="https://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice">"Why is using 'namespace std' considered bad practice?"</a>
+Here's one smart question that recieved hundreds of thousands of views, thousands of upvotes, and more than just a handful of answers. The poster is not try to solve a problem, per se, but is curious as to <a href="https://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice">"Why is using 'namespace std' considered bad practice?"</a>. The title of this post is not super detailed like the examples that the article provides, but it does show technical knowledge such as the use of this namespace being bad practice. In the body of the post, the poster gives background as to why this question has arose and alternative questions that furhter advance this discussion. When you look at the replies, there are possibly hundreds of other users answering the questions, expanding on other replies, and giving examples. This question not only created a large-scale discussion about the topic, but also generated responses that future viewers will see and be able to comprehend the answers.
 
 ## Overview
