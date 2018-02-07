@@ -4,8 +4,8 @@ type: essay
 title: Save the Embarrassment
 date: 2017-01-25
 labels:
-  - Community
   - ICS 314
+  - Community
   - Software Engineering
 ---
 

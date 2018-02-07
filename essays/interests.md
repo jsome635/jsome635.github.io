@@ -4,8 +4,8 @@ type: essay
 title: The Result of an Impluse
 date: 2017-01-18
 labels:
-  - Software Engineering
   - Personal
+  - Software Engineering
 ---
 
 ## What Started It All
