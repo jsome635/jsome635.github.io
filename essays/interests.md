@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Result of an Impluse
+title: The Result of an Impulse
 date: 2017-01-18
 labels:
   - Personal
