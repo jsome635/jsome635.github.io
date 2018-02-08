@@ -28,7 +28,9 @@ Having a coding standard can help someone learn a new programming language, but 
 ```
 Coming from a C/C++ background, I assume `array` should be declared with `let` because it is changing. However, `let` is for when a variable is reassigned, which does not happen. IntelliJ will show an ESLint error saying that `let` needs to be changed to `const`. There are a lot of small details that a beginner can miss if not using a coding standard-IDE combination. By ESLint standards, there needs to be a newline at the end of the program or it will report an error. From experience, I can say that having a coding standard does help a beginner learn a programming language since ESLint has done that for me with Javascript.
 
-<img class="ui center medium rounded image" src="/images/coding_standards-newline.png">
+<center>
+<img class="ui large rounded image" src="/images/coding_standards-newline.png">
+</center>
 
 ## Improving Group Productivity
 
