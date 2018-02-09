@@ -21,27 +21,27 @@ Learning JavaScript was interesting because it deals with a handful of things di
   <img class="ui center rounded image" src="/images/javascript1-push.png">
   <figcaption>Tutorial for pushing data onto arrays.</figcaption>
 </center>
-
+<br>/
 Over this week, I learned two new things about JavaScript. During our <a href="http://courses.ics.hawaii.edu/ics314s18/morea/javascript-1/danny-wod-js1-kl2.html">practice WOD</a>, the teaching assistant (TA) showed us a new way to iterate through a for loop if the condition of the loop involves the length of the array. I have always known for loops to be written as:
 
-<pre>
+```
   for(count = 0; count < array.length; count++){
     ...
   }
-</pre>
+```
 
 or something similar. However, as seen in the <a href="https://jsfiddle.net/jsome635/a7LbLzgq/">solution of the practice WOD</a>, the TA wrote:
 
-<pre>
+```
   for(let food of foodList){
     ...
   }
-</pre>
+```
 
 <center>
   <img class="ui medium rounded image" src="/images/javascript1-for.png">
 </center>
-
+<br/>
 Another interesting that I learned is that you can use regular expressions to search and manipulate strings. When learning C and C++, we needed to make functions to do these operations. Even if these two features end up being unimportant and not frequently used, they allow us to program in JavaScript more efficiently, and our end code will be more understandable for anyone who has to debug or read our code.
 
 ## Thoughts on Athletic Software Engineering
