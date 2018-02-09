@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: The Result of an Impulse
-date: 2017-01-18
+date: 2018-01-18
 labels:
   - Personal
   - Software Engineering

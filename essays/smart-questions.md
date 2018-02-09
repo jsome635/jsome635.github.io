@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Save the Embarrassment
-date: 2017-01-25
+date: 2018-01-25
 labels:
   - ICS 314
   - Community

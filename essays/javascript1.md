@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: langArr.push("JavaScript");
-date: 2017-01-19
+date: 2018-01-19
 labels:
   - ICS 314
   - JavaScript

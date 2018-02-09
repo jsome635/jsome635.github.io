@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: We All Have Standards
-date: 2017-02-08
+date: 2018-02-08
 labels:
   - Coding Standards
   - Software Engineering
