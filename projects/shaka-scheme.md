@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/shaka-scheme-square.png
+image: images/shaka-scheme/shaka-scheme-square.png
 title: Shaka Scheme
 permalink: projects/shaka-scheme
 date: 2017-01-11
