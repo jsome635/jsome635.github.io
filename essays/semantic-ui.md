@@ -14,7 +14,6 @@ We've all heard the phrase _"Don't judge a book by its cover."_ Yet, this is exa
 <div class="ui medium right floated rounded image">
   <img src="/images/semantic-ui/semantic_ui-css.png">
   <h5 class="ui center aligned header">CSS Practice Website</h5>
-  <br><br>
 </div>
 
 Although newer websites look nothing like what they did even 10 years ago, that doesn't mean that the old technologies have been phased out. Rather, it is essential for us to understand how those bland websites were made to begin to understand how new websites are made. Using CSS and HTML, we can create extremely basic looking websites.
