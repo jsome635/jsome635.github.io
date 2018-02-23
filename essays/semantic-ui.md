@@ -13,7 +13,9 @@ We've all heard the phrase _"Don't judge a book by its cover."_ Yet, this is exa
 ## Back to 1998
 <div class="ui medium right floated rounded image">
   <img src="/images/semantic-ui/semantic_ui-css.png">
-  <h5 class="ui center aligned header">CSS Practice Website</h5>
+  <h5 style="margin-top: 0px;" class="ui center aligned header">
+    CSS Practice Website
+  </h5>
 </div>
 
 Although newer websites look nothing like what they did even 10 years ago, that doesn't mean that the old technologies have been phased out. Rather, it is essential for us to understand how those bland websites were made to begin to understand how new websites are made. Using CSS and HTML, we can create extremely basic looking websites.
@@ -39,7 +41,9 @@ Programming languages take years to master, and UI Frameworks are no different. 
 <div>
   <div class="ui large rounded image">
     <img src="/images/semantic-ui/semantic_ui-official.jpg">
-    <h5 class="ui center aligned header">Official Website</h5>
+    <h5 class="ui center aligned header">
+      Official Website
+      </h5>
   </div>
   <div class="ui large rounded image">
     <img src="/images/semantic-ui/semantic_ui-mockup.jpg">
