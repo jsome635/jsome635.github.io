@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Judging Websites By Their Front Page
+title: To Judge a Front Page
 date: 2018-02-22
 labels:
   - Semantic UI
@@ -38,11 +38,11 @@ Programming languages take years to master, and UI Frameworks are no different. 
 
 <div>
   <div class="ui large rounded image">
-    <img src="/images/semantic-ui/semantic_ui-official.png">
+    <img src="/images/semantic-ui/semantic_ui-official.jpg">
     <h5 class="ui center aligned header">Official Website</h5>
   </div>
   <div class="ui large rounded image">
-    <img src="/images/semantic-ui/semantic_ui-mockup.png">
+    <img src="/images/semantic-ui/semantic_ui-mockup.jpg">
     <h5 class="ui center aligned header">Mockup Website</h5>
   </div>
 </div>
