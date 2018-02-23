@@ -13,7 +13,7 @@ We've all heard the phrase _"Don't judge a book by its cover."_ Yet, this is exa
 ## Back to 1998
 <div class="ui medium right floated rounded image">
   <img src="/images/semantic-ui/semantic_ui-css.png">
-  <h5 class="ui center aligned header">CSS Practice Website</figcaption>
+  <h5 class="ui center aligned header">CSS Practice Website</h5>
   <br><br>
 </div>
 
@@ -26,6 +26,7 @@ At the very basics of CSS, there are few elements that we can utilize to control
   <li>Header</li>
   <li>Hyperlink</li>
 </ul>
+
 
 ## Beautiful and Difficult
 
