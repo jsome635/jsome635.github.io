@@ -55,8 +55,6 @@ Programming languages take years to master, and UI Frameworks are no different. 
     </div>
   </div>
 </center>
-<br>
-
 Sometimes the section of the page don't sit where you want them to, or appear where you think they should, to fill the space like you planned. Additionally, the syntax or terminology used for one element may not be standard for another. ```Centered``` and ```center aligned``` implies the same thing, but one works for images and the other works for headers. In that sense, it feels very nonsensical for it to be that way. Why can't it just be one of the two? The same is true for sizes. I can't say why it chosen to be this way, but it is how it is.
 
 Beside the struggling and frustration I went through to learn Semantic UI, there are a lot of up-sides to what it can provide to a website. Since an element can be change based on the class you give it, there are a lot of possible combinations to create unique elements. For instance, a ```ui red button``` and ```ui red basic button``` are two different-looking elements. The former is a red-colored, white-text button, and the latter is a red-outlined, red-text, clear button. Additionally, elements can have different behaviors that what is available in CSS and HTML. We can have elements no bound to the page like navigation bars than follow as the user scrolls, dropdowns, inputs, loaders, and much, much more. Utilizing each element to its fullest, it's possible to re-create the all the websites that are made grab our attention, or even create another amazing website for ourselves.
