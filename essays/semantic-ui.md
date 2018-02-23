@@ -39,14 +39,14 @@ So why not just stick to CSS and HTML if it's possible to create similar, just-a
 
 Programming languages take years to master, and UI Frameworks are no different. Learning Semantic UI for a week, emulating pre-existing sites becomes a feasible task. However, understanding what does what and what goes where can be the frustrating part.
 
-<div>
-  <div class="ui medium centerd rounded image">
+<div class="ui medium centered images>
+  <div class="ui rounded image">
     <img src="/images/semantic-ui/semantic_ui-official.jpg">
     <h5 style="margin-top: 0px;" class="ui center aligned header">
       Official Website
       </h5>
   </div>
-  <div class="ui medium centered rounded image">
+  <div class="ui rounded image">
     <img src="/images/semantic-ui/semantic_ui-mockup.jpg">
     <h5 style="margin-top: 0px;" class="ui center aligned header">
       Mockup Website
