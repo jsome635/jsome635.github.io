@@ -39,21 +39,23 @@ So why not just stick to CSS and HTML if it's possible to create similar, just-a
 
 Programming languages take years to master, and UI Frameworks are no different. Learning Semantic UI for a week, emulating pre-existing sites becomes a feasible task. However, understanding what does what and what goes where can be the frustrating part.
 
-<div class="ui medium centered images">
-  <div class="ui rounded image">
-    <img src="/images/semantic-ui/semantic_ui-official.jpg">
-    <h5 style="margin-top: 0px;" class="ui center aligned header">
-      Official Website
+<center>
+  <div class="ui medium images">
+    <div class="ui rounded image">
+      <img src="/images/semantic-ui/semantic_ui-official.jpg">
+      <h5 style="margin-top: 0px;" class="ui center aligned header">
+        Official Website
+        </h5>
+    </div>
+    <div class="ui rounded image">
+      <img src="/images/semantic-ui/semantic_ui-mockup.jpg">
+      <h5 style="margin-top: 0px;" class="ui center aligned header">
+        Mockup Website
       </h5>
+    </div>
   </div>
-  <div class="ui rounded image">
-    <img src="/images/semantic-ui/semantic_ui-mockup.jpg">
-    <h5 style="margin-top: 0px;" class="ui center aligned header">
-      Mockup Website
-    </h5>
-  </div>
-</div>
-<br><br>
+</center>
+<br>
 
 Sometimes the section of the page don't sit where you want them to, or appear where you think they should, to fill the space like you planned. Additionally, the syntax or terminology used for one element may not be standard for another. ```Centered``` and ```center aligned``` implies the same thing, but one works for images and the other works for headers. In that sense, it feels very nonsensical for it to be that way. Why can't it just be one of the two? The same is true for sizes. I can't say why it chosen to be this way, but it is how it is.
 
