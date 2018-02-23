@@ -39,7 +39,7 @@ So why not just stick to CSS and HTML if it's possible to create similar, just-a
 
 Programming languages take years to master, and UI Frameworks are no different. Learning Semantic UI for a week, emulating pre-existing sites becomes a feasible task. However, understanding what does what and what goes where can be the frustrating part.
 
-<div class="ui medium centered images>
+<div class="ui medium centered images">
   <div class="ui rounded image">
     <img src="/images/semantic-ui/semantic_ui-official.jpg">
     <h5 style="margin-top: 0px;" class="ui center aligned header">
@@ -63,6 +63,6 @@ Beside the struggling and frustration I went through to learn Semantic UI, there
 
 After learning CSS, HTML, and Semantic UI, I really wish I had known these during the 
 <a href="https://jsome635.github.io/projects/tipcalculator">Android app</a>
-project. Since I struggled to make a eye-pleasing design during the project, maybe knowing these would've been helpful. 
+project. Since I struggled to make a eye-pleasing design during the project, maybe knowing these would've been helpful. Once we started CSS and HTML, I recognized terms like ```margins``` and ```padding```, and had a general sense of how designing using CSS, HTML, and Semantic UI would be, but it was a lot more in-depth than I expected.
 
-As always, we can't always have the best, nicest, or newest things (unless we are the ones making them), and UI Frameworks are no different. From HTML and CSS, we went onto learn Semantic UI. After learning Semantic UI, up next is the React version of Semantic UI. Hopefully, not as much of a struggle, but it'll be interesting to see how much easier or better React can make the websites we've made throughout this past week. 
+As always, we can't always have the best, nicest, or newest things (unless we are the ones making them), and UI Frameworks are no different. Although Semantic UI has been extremely useful to us for making websites that look like the ones we've started to see everyday, it is not the only UI Framework that exists. From HTML and CSS, we went onto learn Semantic UI. After learning Semantic UI, up next is the React version of Semantic UI. Hopefully, not as much of a struggle, but it'll be interesting to see how much easier or better React can make the websites we've made throughout this past week. 
