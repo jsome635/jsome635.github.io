@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tamagotchi-square.png
+image: images/tamagotchi/tamagotchi-square.png
 title: Tamagotchi
 permalink: projects/tamagotchi
 date: 2017-04-15
