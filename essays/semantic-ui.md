@@ -13,11 +13,19 @@ We've all heard the phrase _"Don't judge a book by its cover."_ Yet, this is exa
 ## Back to 1998
 <div class="ui medium right floated rounded image">
   <img src="/images/semantic-ui/semantic_ui-css.png">
-  <figcaption>CSS Practice Website</figcaption>
+  <h5 class="ui center aligned header">CSS Practice Website</figcaption>
   <br><br>
 </div>
 
 Although newer websites look nothing like what they did even 10 years ago, that doesn't mean that the old technologies have been phased out. Rather, it is essential for us to understand how those bland websites were made to begin to understand how new websites are made. Using CSS and HTML, we can create extremely basic looking websites.
+
+At the very basics of CSS, there are few elements that we can utilize to control the design of the web page. The elements we used were:
+
+<ul>
+  <li>Paragraph</li>
+  <li>Header</li>
+  <li>Hyperlink</li>
+</ul>
 
 ## Beautiful and Difficult
 
