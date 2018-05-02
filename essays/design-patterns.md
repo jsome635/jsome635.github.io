@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns
+title: Blueprints for Code
 date: 2018-05-01
 labels:
   - Design Patterns
