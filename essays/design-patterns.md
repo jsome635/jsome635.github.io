@@ -17,9 +17,9 @@ Briefly, design patterns in software engineering can be described as general sol
 While watching the professor's videos (<a href='https://www.youtube.com/watch?v=Z2yjimK_MJU'>1</a>, <a href='https://www.youtube.com/watch?v=yP-t44HBCPQ'>2</a>)
 and reading the <a href='https://sourcemaking.com/design_patterns'>brief introduction about design patterns</a>, there was not much distinction between design patterns and algorithms. This sort-of crash course on the topic left me confused, even slightly still as I am writing this. What is the difference between design patterns and algorithms? <a href='https://softwareengineering.stackexchange.com/questions/92179/does-it-make-sense-to-ask-what-is-the-difference-between-design-pattern-and-al'>This post on StackExchange</a> had some replies that explained the difference very well. One reply drew a likeness between design patterns and diagrams. Design patterns help outline or blueprint the your classes and methods in a way that works in a fluid, seamless manner. This same reply related algorithms to a list of steps, like a set of instructions to be followed for the desired outcome. This implies that algorithms require some sort of implementation (even if in pseudocode), whereas a design pattern does not.
 
-<div>
-    <img class="ui centered roundede image" src="../images/design-patterns/design_patterns-diagram.png">
-    <img class="ui centered rounded image" src="../images/design-patterns/design_patterns-instructions.png">
+<div class="ui medium centered rounded images">
+    <img class="ui image" src="../images/design-patterns/design_patterns-diagram.png">
+    <img class="ui image" src="../images/design-patterns/design_patterns-instructions.png">
 </div>
 
 ## Unseen and Unbeknownst
