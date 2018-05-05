@@ -18,7 +18,7 @@ summary: Created and deployed a functional Meteor app for University of Hawaii s
 
 <div class="ui four item menu">
   <a href="#" class="item">Goal</a>
-  <a href="shaka-scheme.md" class="item">Contribution</a>
+  <a href="/goals" class="item">Contribution</a>
   <a href="#learning" class="item">Learning</a>
   <a href="#outcome" class="item">Outcome</a>
 </div>
