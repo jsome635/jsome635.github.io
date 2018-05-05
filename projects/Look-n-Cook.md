@@ -15,3 +15,9 @@ labels:
   - Semantic UI React
 summary: Created and deployed a functional Meteor app for University of Hawaii students to share recipes with each other.
 ---
+
+<div>
+  <h2>Top Header</h2>
+  <h2>Middle Header</h2>
+  <h2>Bottom Header</h2>
+</div>
