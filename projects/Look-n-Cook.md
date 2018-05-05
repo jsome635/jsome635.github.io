@@ -16,13 +16,29 @@ labels:
 summary: Created and deployed a functional Meteor app for University of Hawaii students to share recipes with each other.
 ---
 
-<h2>Top Header</h2>
-<h2>Middle Header</h2>
-<h2>Bottom Header</h2>
-
 <div class="ui four item menu">
-  <a class="active item">Goal</a>
-  <a class="active item">Contribution</a>
-  <a class="active item">Learning</a>
-  <a class="active item">Outcome</a>
+  <a href="#goal" class="active item">Goal</a>
+  <a href="#contribution" class="active item">Contribution</a>
+  <a href="#learning" class="active item">Learning</a>
+  <a href="#outcome" class="active item">Outcome</a>
 </div>
+
+<h2 id="goal">Goals</h2>
+<p>
+This is the goals section.
+</p>
+
+<h2 id="contribution">Contribution to the Team</h2>
+<p>
+This is the contributions section.
+</p>
+
+<h2 id="Learning">Learning</h2>
+<p>
+This is the learning section.
+</p>
+
+<h2 id="outcome">Outcome</h2>
+<p>
+This is the outcome section.
+</p>
