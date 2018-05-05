@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/look-n-cook/look-n-cook_icon.png
 title: Look 'n' Cook
-permalink: projects/look-n-cook
+permalink: projects/look-n-cook/overview
 date: 2018-04-02
 labels:
   - EE314 (Final Project)
@@ -17,7 +17,7 @@ summary: Created and deployed a functional Meteor app for University of Hawaii s
 ---
 
 <div class="ui five item menu">
-  <a href="/projects/look-n-cook" class="active item">Overview</a>
+  <a href="/projects/look-n-cook/overview" class="active item">Overview</a>
   <a href="/projects/look-n-cook/goals" class="item">Goal</a>
   <a href="/projects/tipcalculator" class="item">Contribution</a>
   <a href="#learning" class="item">Learning</a>
