@@ -21,7 +21,7 @@ summary: Created and deployed a functional Meteor app for University of Hawaii s
   <a href="/projects/look-n-cook/goals" class="item">Goal</a>
   <a href="/projects/look-n-cook/contribution" class="item">Contribution</a>
   <a href="/projects/look-n-cook/learning" class="item">Learning</a>
-  <a href="/projects/look-n-cook/outcome" class="active item">Outcome</a>
+  <a href="/projects/look-n-cook/outcome" class="item">Outcome</a>
 </div>
 
 <h2>Overview</h2>
