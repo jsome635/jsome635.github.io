@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/android-app/android-app-square.jpg
+image: images/look-n-cook/look-n-cook_icon.png
 title: Android App Development - Tip Calculator
 permalink: projects/tipcalculator
 date: 2017-08-21
