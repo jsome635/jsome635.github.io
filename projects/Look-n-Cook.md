@@ -2,9 +2,9 @@
 layout: project
 type: project
 image: images/look-n-cook/look-n-cook_icon.png
-title: Android App Development - Tip Calculator
-permalink: projects/tipcalculator
-date: 2017-08-21
+title: Look 'n' Cook
+permalink: projects/look-n-cook
+date: 2018-04-02
 labels:
   - EE314 (Final Project)
   - GitHub
