@@ -20,9 +20,9 @@ summary: Created and deployed a functional Meteor app for University of Hawaii s
 <h2>Middle Header</h2>
 <h2>Bottom Header</h2>
 
-<div class="ui menu">
-  <a class="item">Goal</a>
-  <a class="item">Contribution</a>
-  <a class="item">Learning</a>
-  <a class="item">Outcome</a>
+<div class="ui four item menu">
+  <a class="active item">Goal</a>
+  <a class="active item">Contribution</a>
+  <a class="active item">Learning</a>
+  <a class="active item">Outcome</a>
 </div>
