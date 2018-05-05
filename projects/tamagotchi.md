@@ -6,6 +6,7 @@ title: Tamagotchi
 permalink: projects/tamagotchi
 date: 2017-04-15
 labels:
+  - EE205 (Final Project)
   - C++
   - GitHub
 summary: Created a simplified verison of an old, well-known pet game as the final project for EE205 with a team of two other people.

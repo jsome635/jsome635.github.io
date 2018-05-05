@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -34,6 +34,11 @@
       ]
     },
     {
+      "name": "Software Development",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Virtual Reality",
       "keywords": [
       ]
@@ -51,7 +56,8 @@
       "keywords": [
         "C",
         "C++",
-        "Javascript",
+        "JavaScript",
+        "Semantic UI",
         "Verilog"
       ]
     },
@@ -61,9 +67,11 @@
       "keywords": [
         "Android Studio",
         "CLion",
-        "g++",
+        "G++",
         "Git/GitHub",
         "Google Test",
+        "IntelliJ",
+        "Meteor",
         "MinGW",
         "Vivado",
         "Windows"
@@ -82,9 +90,12 @@
         "EE160 - Programming for Engineers",
         "EE205 - Object Oriented Programming",
         "EE211 - Basic Circuit Analysis I",
+        "EE213 - Basic Circuit Analusis II",
         "EE260 - Introduction to Digital Design",
         "EE361 - Digital System & Computer Digital",
-        "EE362 - Discrete Math for Engineers"
+        "EE362 - Discrete Math for Engineers",
+        "EE367 - Computer Data Structures & Algorithms",
+        "ICS314 - Software Engineering I"
       ]
     }
   ],
@@ -113,6 +124,19 @@
         "Calculate tip dynamically from user input, OCR, or selectable options.",
         "Focused on data manipulation and dynamic calculation.",
         "Developed app using Java and Android Studio."
+      ]
+    },
+    {
+      "organization": "Look 'n' Cook",
+      "website": "https://look-n-cook.github.io/",
+      "position": "Software Developer",
+      "startDate": "2017-06-05",
+      "endDate": "2017-12-12",
+      "summary": "Developed Meteor app for UH students to share recipes",
+      "highlights": [
+        "Contributed heavily to pages dealing with database manipulation and processing.",
+        "Used Issue-Based Project Management to divide work and tackle issues consecutively.",
+        "ICS314 final project to display skills with JavaScript, Meteor, MongoDB, Semantic UI React, and IntelliJ."
       ]
     }
   ],

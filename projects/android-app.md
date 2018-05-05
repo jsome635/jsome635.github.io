@@ -6,6 +6,7 @@ title: Android App Development - Tip Calculator
 permalink: projects/tipcalculator
 date: 2017-08-21
 labels:
+  - EE396 (Junior Project)
   - Java
   - Android Studio
 summary: Developed an Android app that dynamically calculated tip from input given by the user, parsed in by OCR, or selected in dropdown menus.

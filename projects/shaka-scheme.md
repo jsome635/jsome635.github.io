@@ -7,6 +7,7 @@ permalink: projects/shaka-scheme
 date: 2017-01-11
 labels:
   - C++
+  - EE296 (Sophomore Project)
   - Scheme
   - GoogleTest
   - GitHub
