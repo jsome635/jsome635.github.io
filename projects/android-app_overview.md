@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/android-app/android-app-square.jpg
-title: Android App Development - Tip Calculator
+title: Tip Calculator
 permalink: projects/android-app/overview
 date: 2017-08-21
 labels:
