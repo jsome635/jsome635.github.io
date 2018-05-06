@@ -30,29 +30,29 @@ For this project, my group of three members made a simplified version of this ga
 <br><br>
 <div class="ui medium centered rounded images">
   <div>
-    <img class="ui image" src="../images/tamagotchi/tamagotchi_egg.png">
+    <img class="ui image" src="/tamagotchi/tamagotchi_egg.png">
     <figcaption>1.Egg</figcaption>
   </div>
   <div>
-    <img class="ui image" src="../images/tamagotchi/tamagotchi_baby.png">
+    <img class="ui image" src="/tamagotchi/tamagotchi_baby.png">
     <figcaption>2.Baby</figcaption>
   </div>
   <div>
-    <img class="ui image" src="../images/tamagotchi/tamagotchi_kid.png">
+    <img class="ui image" src="/tamagotchi/tamagotchi_kid.png">
     <figcaption>3.Kid</figcaption>
   </div>
   <div>
-    <img class="ui image" src="../images/tamagotchi/tamagotchi_teen.png">
+    <img class="ui image" src="/tamagotchi/tamagotchi_teen.png">
     <figcaption>4.Teen</figcaption>
   </div>
 </div
 
 <figcaption>5.Adult   6.Parent</figcaption>
 <div class="ui medium centered rounded images">
-  <img class="ui image" src="../images/tamagotchi/tamagotchi_adult.png">
-  <img class="ui image" src="../images/tamagotchi/tamagotchi_parent.png">
+  <img class="ui image" src="/tamagotchi/tamagotchi_adult.png">
+  <img class="ui image" src="/tamagotchi/tamagotchi_parent.png">
 <figcaption>7.Lights off    8.Grave</figcaption>
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/tamagotchi/tamagotchi_lights.png">
-  <img class="ui image" src="../images/tamagotchi/tamagotchi_grave.png">
+  <img class="ui image" src="/tamagotchi/tamagotchi_lights.png">
+  <img class="ui image" src="/tamagotchi/tamagotchi_grave.png">
 </div>
