@@ -19,9 +19,9 @@ summary: Developed an Android app that dynamically calculated tip from input giv
 </div>
 
 <h2>Overview</h2>
-<p>
-For this project, my partner and I aimed to create a tip calculator for the people who wanted to get the cost of tips quickly or those who struggled to calculate tip on their own. To make this app more appealing than calculating tip yourself or using a different app, we attempted to implement the library for Optical Character Recognition (OCR) to enter data by reading an image of the receipt. By the end of the project, the app reflected mostly what we had planned out for the project, but there was still a lot of work that could be done.
-</p>
 
 <img class="ui medium right floated rounded image" src="/images/android-app/android-app_ui1.png">
 
+<p>
+For this project, my partner and I aimed to create a tip calculator for the people who wanted to get the cost of tips quickly or those who struggled to calculate tip on their own. To make this app more appealing than calculating tip yourself or using a different app, we attempted to implement the library for Optical Character Recognition (OCR) to enter data by reading an image of the receipt. By the end of the project, the app reflected mostly what we had planned out for the project, but there was still a lot of work that could be done.
+</p>
