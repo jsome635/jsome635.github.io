@@ -15,3 +15,17 @@ permalink: projects/tamagotchi/outcome
 At the end of the project, our iteration of the game behaved and appeared similar to the official game. With our game, the user can do practically everything that they can if they were playing the real thing. We were also satisfied with the display that we created, even if it wasn't required for the project. The biggest difference between our project and the real game was that our project could not do things in real-time. Instead, our project used the number of actions that the user has input to decide the events should occur. Other than that, I feel that we completely finished the project.
 </p>
 
+<center>
+<div class="ui small rounded images">
+    <img class="ui image" src="/images/tamagotchi/tamagotchi_egg.png">
+    <img class="ui image" src="/images/tamagotchi/tamagotchi_baby.png">
+    <img class="ui image" src="/images/tamagotchi/tamagotchi_kid.png">
+    <img class="ui image" src="/images/tamagotchi/tamagotchi_teen.png">
+</div
+<div class="ui small rounded images">
+  <img class="ui image" src="/images/tamagotchi/tamagotchi_adult.png">
+  <img class="ui image" src="/images/tamagotchi/tamagotchi_parent.png">
+  <img class="ui image" src="/images/tamagotchi/tamagotchi_lights.png">
+  <img class="ui image" src="/images/tamagotchi/tamagotchi_grave.png">
+</div>
+</center>
