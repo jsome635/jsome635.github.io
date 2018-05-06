@@ -14,5 +14,6 @@ permalink: projects/look-n-cook/outcome
 
 <h2>Outcome</h2>
 <p>
-This is the outcome section.
+At the end of the project, 
+The full app can be viewed <a href="http://look-n-cook.meteorapp.com/#/">here</a>.
 </p>
