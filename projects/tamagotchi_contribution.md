@@ -22,7 +22,7 @@ For this project, my group of three members made a simplified version of this ga
     <img class="ui image" src="/images/tamagotchi/tamagotchi_kid.png">
     <img class="ui image" src="/images/tamagotchi/tamagotchi_teen.png">
 </div
-<div class="ui small centered rounded images">
+<div class="ui small rounded images">
   <img class="ui image" src="/images/tamagotchi/tamagotchi_adult.png">
   <img class="ui image" src="/images/tamagotchi/tamagotchi_parent.png">
   <img class="ui image" src="/images/tamagotchi/tamagotchi_lights.png">
