@@ -6,9 +6,7 @@ permalink: projects/look-n-cook/outcome
 
 <div class="ui five item menu">
   <a href="/projects/look-n-cook/overview" class="item">Overview</a>
-  <a href="/projects/look-n-cook/goals" class="item">Goal</a>
   <a href="/projects/look-n-cook/contribution" class="item">Contribution</a>
-  <a href="/projects/look-n-cook/learning" class="item">Learning</a>
   <a href="/projects/look-n-cook/outcome" class="active item">Outcome</a>
 </div>
 

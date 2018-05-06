@@ -18,16 +18,17 @@ summary: Created and deployed a functional Meteor app for University of Hawaii s
 
 <div class="ui five item menu">
   <a href="/projects/look-n-cook/overview" class="active item">Overview</a>
-  <a href="/projects/look-n-cook/goals" class="item">Goal</a>
   <a href="/projects/look-n-cook/contribution" class="item">Contribution</a>
-  <a href="/projects/look-n-cook/learning" class="item">Learning</a>
   <a href="/projects/look-n-cook/outcome" class="item">Outcome</a>
 </div>
 
 <h2>Overview</h2>
 <p>
-Look 'n' Cook was my final project for ICE314, Software Engineering I. All the teams in the class were working to create an app that would improve the college-life of the students at the University of Hawaii. These projects varied from study tools to housing assistance to daily functions. Working in a group of three, we had a little less than five weeks to implement all the pages and functionality that we had planned out .
+At the University of Hawaii at Manoa, there are three dorms filled with students from other states, other counrties, and other islands. There are also local kids who have decided to live closer to school than with their parents. Additionally, there are many students who live at the apartments not too far from campus. It goes without saying that many of these students have allergies or diets that restrict the foods they can eat; eating out can become very expensive in a short amount of time; and the cafeterias sometimes provide high-calorie-small-portion meals. Some students want to cook, but simply do not have the courage or the knowledge to do so. Look 'n' Cook aims to provide a student "cookbook" to find recipes that fit any lifestyle. It allows UH students to create recipes and share them with many others.
 </p>
 <p>
-This project was a test of our understanding and skills learned throughout the semester. As we learned at the beginning of the semester, we used JavaScript to manipulate existing data and create usable data. Around the later-middle of the semester, we learned Semantic UI React, and utilized this knowledge heavily to design a visually-pleasing app layout. At the very end of the semester, we learned MongoDB which allowed us to create databases which would prove to be very useful in storing all the data created and saved by the app. To do this, we used the IntelliJ IDE to create all of our code and Meteor to test and deploy it.
+Look 'n' Cook can provide students with great recipes, but how can they make great recipes without great ingredients? Look 'n' Cook also allows vendors to create accounts, and be part of the Look 'n' Cook community. Vendors with create a Look 'n' Cook account can publish the ingredients they have in stock and what price the ingredients are selling for. When viewing a recipe, users are given a list where they can see all the vendors who are selling the ingredients that are needed.
+</p>
+<p>
+The full documentation on the app can be viewed <a href="https://look-n-cook.github.io/">here</a>.
 </p>
