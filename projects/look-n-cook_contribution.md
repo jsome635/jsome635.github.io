@@ -17,7 +17,7 @@ permalink: projects/look-n-cook/contribution
 During the project, there were a few pages and components that I had sole responsibility over. Near the start of the project, I created the header, footer, and divider that would be used on all the pages that we would go on to implement in the project. Around the same time, I also designed the landing page that visitors without a Look 'n' Cook account would see. This page was made to describe and attract more users to the app. A smaller issue I completed was all the admin pages that would show the admin all the users, vendors, recipes, and ingredients in the system. This required a lot of manipulation of the data stored in the databases. Lastly, I am most proud of the designing the page that allows users to search through all the recipes in the system. To complete this task, I had to figure out how to parse the different inputs given by the user. From there, I stored the inputs and compared it to all the fields of the all the recipes in the database.
 </p>
 
-  <img class="ui medium centered rounded image" src="/images/look-n-cook/look-n-cook_search.png">
+<img class="ui centered rounded image" src="/images/look-n-cook/look-n-cook_search.png">
 
 <h4>Assisting my Team</h4>
 <p>
