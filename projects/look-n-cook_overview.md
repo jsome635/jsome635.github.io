@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/look-n-cook/look-n-cook_icon.png
+image: images/look-n-cook/look-n-cook_square.png
 title: Look 'n' Cook
 permalink: projects/look-n-cook/overview
 date: 2018-04-02

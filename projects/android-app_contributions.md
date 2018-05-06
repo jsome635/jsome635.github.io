@@ -18,4 +18,4 @@ My main contribution to the app was creating the user interface. Overall, the la
 Additionally, my partner was learning how to implement the OCR library so it could work alongside the user interface. I worked with her to figure out a way to parse the data read by the OCR to the interface properly. Lastly, instead of including and “equals” or “calculate” button, our design called for the tip calculator to calculate everything in real-time. After a lot of struggling, this was done by allowing our TextWatcher to access carefully selected public variables and methods in the main activity. By allowing the TextWatcher access this information, it could change the outputs shown on the interface while it formats the data entered by the user.
 </p>
 
-<img class="ui large centered rounded image" src="/images/android-app/android-app-ocr.png">
+<img class="ui large centered rounded image" src="/images/android-app/android-app_ocr.png">
