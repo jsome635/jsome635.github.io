@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Look 'n' Cook
-permalink: projects/android-app/contribution
+permalink: projects/android-app/outcome
 ---
 
 <div class="ui three item menu">
