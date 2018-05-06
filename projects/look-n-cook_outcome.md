@@ -11,6 +11,9 @@ permalink: projects/look-n-cook/outcome
 </div>
 
 <h2>Outcome</h2>
+
+<img class="ui centered rounded image" src="/images/look-n-cook/look-n-cook_outcome.png">
+
 <p>
 At the end of the project, we were able to complete the majority of all the things that we had planned. For the most part, the pages we had created for the app resemble the pages that we had created mock-ups for. At the beginning of the project, we worried that the pages and functionality that we proposed for the project were unreasonable, and the app would end up looking very basic. I feel that we did a good job with everything that we were able to implement.
 </p>
@@ -20,5 +23,3 @@ We were satisfied with the overall project, but we are not denying there was som
 <p>
 The full app can be viewed <a href="http://look-n-cook.meteorapp.com/#/">here</a>.
 </p>
-
-<img class="ui centered rounded image" src="/images/look-n-cook/look-n-cook_outcome.png">
