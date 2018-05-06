@@ -16,7 +16,7 @@ labels:
 summary: Created and deployed a functional Meteor app for University of Hawaii students to share recipes with each other.
 ---
 
-<div class="ui five item menu">
+<div class="ui three item menu">
   <a href="/projects/look-n-cook/overview" class="active item">Overview</a>
   <a href="/projects/look-n-cook/contribution" class="item">Contribution</a>
   <a href="/projects/look-n-cook/outcome" class="item">Outcome</a>

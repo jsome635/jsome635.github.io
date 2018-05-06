@@ -4,7 +4,7 @@ title: Look 'n' Cook
 permalink: projects/look-n-cook/contribution
 ---
 
-<div class="ui five item menu">
+<div class="ui three item menu">
   <a href="/projects/look-n-cook/overview" class="item">Overview</a>
   <a href="/projects/look-n-cook/contribution" class="active item">Contribution</a>
   <a href="/projects/look-n-cook/outcome" class="item">Outcome</a>
