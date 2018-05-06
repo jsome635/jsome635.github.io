@@ -20,3 +20,5 @@ We were satisfied with the overall project, but we are not denying there was som
 <p>
 The full app can be viewed <a href="http://look-n-cook.meteorapp.com/#/">here</a>.
 </p>
+
+<img class="ui centered rounded image" src="/images/look-n-cook/look-n-cook_search.png">
