@@ -23,6 +23,9 @@ summary: Created and deployed a functional Meteor app for University of Hawaii s
 </div>
 
 <h2>Overview</h2>
+
+<img class="ui centered rounded image" src="/images/look-n-cook/look-n-cook_overview.png">
+
 <p>
 At the University of Hawaii at Manoa, there are three dorms filled with students from other states, other counrties, and other islands. There are also local kids who have decided to live closer to school than with their parents. Additionally, there are many students who live at the apartments not too far from campus. It goes without saying that many of these students have allergies or diets that restrict the foods they can eat; eating out can become very expensive in a short amount of time; and the cafeterias sometimes provide high-calorie-small-portion meals. Some students want to cook, but simply do not have the courage or the knowledge to do so. Look 'n' Cook aims to provide a student "cookbook" to find recipes that fit any lifestyle. It allows UH students to create recipes and share them with many others.
 </p>
