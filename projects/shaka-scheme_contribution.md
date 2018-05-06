@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Shaka Scheme
-permalink: projects/shaka-scheme/contributions
+permalink: projects/shaka-scheme/contribution
 ---
 
 <div class="ui three item menu">

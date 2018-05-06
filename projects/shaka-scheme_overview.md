@@ -25,5 +25,5 @@ summary: University of Hawaii - Transpiler Project. Contributed as part of the P
 This project originally started off as a project to make a transpiler for Scheme using C++ for someone's Senior Project. To complete this, the overall group was separated into three different teams: Core Systems, Parsing/IO, and Design and Testing. As part of the Parsing/IO team, we were to follow the Revised7 Report on Algorithmic Language Scheme (R7RS) to create rules on how to parse in the data given by the user. At the beginning of the project, the team did not receive much guidance from the person leading the project, and made little to no progress on the project. Once he began to help the team more, we realized that the method for parsing that he had laid out for us had some flaws. The parser experienced many revisions throughout the semesters, and the team had to rewrite old functions that worked for the previous version of the parser.
 </p>
 
-<img class="ui centered rounded image" src="/shaka-scheme/shaka-scheme_sample.png">
+<img class="ui centered rounded image" src="/images/shaka-scheme/shaka-scheme_sample.png">
 
