@@ -8,8 +8,6 @@
 // Customize the background color
 body {
   background-color: #F5F5F5;
-  background: url('/images/CSS/front-page_background.jpg') no-repeat right fixed;
-  background-size: cover;
 }
 
 h1 {
@@ -29,11 +27,6 @@ h3 {
   background: #283E4A;
 }
 
-// Default home page icon color
-.icon-color {
-  color: #0077B5;
-}
-
 .ui.button {
   background: #6C8C9D;
   color: white;
@@ -47,7 +40,7 @@ h3 {
   color: #ffffff;
 }
 
-.ui.menu .item .hover {
+.ui.stackable.menu .item a:hover {
   color: #ffffff;
 }
 
@@ -65,6 +58,11 @@ h3 {
 
 .ui.cards>.card>.content>.header {
   color: #0b5394;
+}
+
+// Default home page icon color
+.icon-color {
+  color: #0077B5;
 }
 
 // Customize the home page icon colors
