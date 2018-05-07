@@ -7,7 +7,7 @@
 
 // Customize the background color
 body {
-  background-color: #A0ABB9;
+  background-color: #F5F5F5;
 }
 
 h1 {
@@ -58,6 +58,9 @@ h3 {
 
 .ui.card {
   background: #393c3f;
+}
+
+.ui.card>.content>.description {
   color: #CFEBF4;
 }
 
