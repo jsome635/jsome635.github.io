@@ -36,8 +36,12 @@ h3 {
   color:  #0077B5!important;
 }
 
+.ui.bottom.attached.button:hover {
+  color: #CFEBF4;
+}
+
 .ui.menu .item {
-  color: #efefef;
+  color: #CFEBF4;
 }
 
 .ui.stackable.menu .item:hover {
@@ -53,7 +57,7 @@ h3 {
 }
 
 .ui.card>.content>.header {
-  color: #0077B5;
+  color: #569E97;
 }
 
 .ui.cards>.card>.content>.header {
@@ -62,6 +66,6 @@ h3 {
 
 // Customize the home page icon colors
 .icon-color {
-  color: #0077B5;
+  color: #569E97;
 }
 
