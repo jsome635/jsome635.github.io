@@ -8,8 +8,6 @@ labels:
   - Software Engineering
 ---
 
-## ESLint
-
 <img class="ui medium right rounded floated image" src="/images/coding_standards/coding_standards-eslint.png">
 
 ESLint has been extremely useful so far. It has helped me understand the language better, and identify ways to write my code more efficiently. Since it shows errors for redundancy and whether a variable should be declared with `let` or `const`, I have been trying to remember these errors, and write my code so that they will not show up the first time. Additionally, having a coding standard can vastly improve readability in a project. Some of the coding standards are small and seem meaningless. Some that come to mind are: no trailing spaces after semicolons or hanging brackets, a space between an `if` and its condition, and a space between a functions arguments and its starting bracket. However, these small details keep the code clean so that when you come back to the project or someone else works on the project, they can easily understand what was written.

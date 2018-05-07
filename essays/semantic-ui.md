@@ -5,10 +5,12 @@ title: To Judge a Front Page
 date: 2018-02-22
 labels:
   - CSS and HTML
+  - ICS314
   - Semantic UI
   - Software Engineering
   - Web Design
 ---
+
 We've all heard the phrase _"Don't judge a book by its cover."_ Yet, this is exactly what we do with each website that we visit, but that's not necessarily a bad thing. We like the images, the flashy backgrounds, and the vibrant colors. Occasionally, we come across a wall of text with some solid-color background that just happens to also be the most boring or most irritating color in existence. When faced with those websites, it's almost instinctive to quickly leave without reading the first sentence, even if we're desperately searching for information. The period where Yahoo! and AOL were popular are over, and the internet of now is (mostly) filled with these visually-pleasing websites. 
 
 ## Back to 1998
