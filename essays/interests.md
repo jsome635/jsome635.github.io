@@ -8,7 +8,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui right floated rounded image" src="/images/interests/interests_uhm.png">
+<img class="ui medium right floated rounded image" src="/images/interests/interests_uhm.png">
 
 One of the hardest questions for me to answer is, "what made you choose to go to school for Computer Engineering?" I can only say that I walked into the advisor's office before my first semester at the University of Hawaii at Manoa, and asked if I could change from Mechanical Engineering to Computer Engineering. Honestly, there was no particular reason from me to transfer; I was not talking to current students, I did not look into the types of classes I would be taking, I did not research the kind of jobs that I would be able to find. I had some related interests--computers and video games--but those alone do not represent my choice to become a Computer Engineer. In fact, I had studied AutoCAD heavily during high school and received a recognition diploma for related activities. Even with no past programming experience, I decided to forgo the seemingly obvious route. Luckily, I found that I enjoyed programming as much as I did AutoCAD. My first programming class quickly sparked a deep, newfound interest that would drive me to grow as a Software Engineer.
 
