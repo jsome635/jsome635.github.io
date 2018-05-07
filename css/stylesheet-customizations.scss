@@ -7,12 +7,62 @@
 
 // Customize the background color
 body {
-  // background-color: #f2f2f2;;
+  background-color: #F5F5F5;
+}
+
+h1 {
+  color: #225069;
+}
+
+h2 {
+  color: #54829a;
+}
+
+h3 {
+  color: #54829a;
 }
 
 // Customize the menubar color
 .ui.menu {
-  // background: $background-start;
+  background: #283E4A;
+}
+
+// Default home page icon color
+.icon-color {
+  color: #0077B5;
+}
+
+.ui.button {
+  background: #6C8C9D;
+  color: white;
+}
+
+.ui.basic.buttons .button {
+  color:  #0077B5!important;
+}
+
+.ui.menu .item {
+  color: #ffffffde;
+}
+
+.ui.menu .item:hover {
+  color: #ffffffde;
+}
+
+.ui.menu .active.item {
+  color: #6C8C9D;
+}
+
+.ui.card {
+  background: #FCFCFC;
+}
+
+.ui.card>.content>.header {
+  color: #0077B5;
+}
+
+.ui.cards>.card>.content>.header {
+  color: #0b5394;
 }
 
 // Customize the home page icon colors
