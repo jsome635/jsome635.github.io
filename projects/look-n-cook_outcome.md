@@ -20,6 +20,3 @@ At the end of the project, we were able to complete the majority of all the thin
 <p>
 We were satisfied with the overall project, but we are not denying there was some issues that we wish we could have completed before the project ended. One big issue is that a user is unable to upload a unique image for his or her recipe. Added to that, we were not taught how to require users to sign up for an account to enter a official UH email. Other than that, there were also some small bugs that were noticed after completion of the project. An example of this is that any user can delete a comment on a recipe. The goal here was to make it so only the comment's poster, the recipe's poster, or an admin could remove comments; however, we were struggling with implementing that feature near the end of the project and could not complete it.
 </p>
-<p>
-The full app can be viewed <a href="http://look-n-cook.meteorapp.com/#/">here</a>.
-</p>
