@@ -92,9 +92,9 @@
       "courses": [
         "EE160 - Programming for Engineers",
         "EE205 - Object Oriented Programming",
-        "EE361 - Digital System & Computer Digital",
         "EE362 - Discrete Math for Engineers",
         "EE367 - Computer Data Structures & Algorithms",
+        "EE491F - Intro to Game Design and Development",
         "ICS314 - Software Engineering I"
       ]
     }
