@@ -6,7 +6,7 @@ title: Look 'n' Cook
 permalink: projects/look-n-cook/overview
 date: 2018-04-02
 labels:
-  - EE314 (Final Project)
+  - ICS314 (Final Project)
   - GitHub
   - JavaScript
   - IntelliJ
