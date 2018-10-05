@@ -85,7 +85,7 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected Spring, 2019)",
-      "studyType": "B.S.",
+      "studyType": "Bachelor of Science",
       "startDate": "2015-08-24",
       "endDate": "Present",
       "gpa": "3.41",
@@ -136,7 +136,7 @@
       "highlights": [
         "Contributed heavily to pages dealing with database manipulation and processing.",
         "Used Issue-Based Project Management to divide work and tackle issues consecutively.",
-        "ICS314 final project to display skills with JavaScript, Meteor, MongoDB, Semantic UI React, and IntelliJ."
+        "ICS314 final project to display skills with JavaScript, Meteor, MongoDB, and Semantic UI React."
       ]
     }
   ],
