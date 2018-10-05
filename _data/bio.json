@@ -56,9 +56,10 @@
       "keywords": [
         "C",
         "C++",
+        "C#",
+        "Java",
         "JavaScript",
         "Semantic UI",
-        "Verilog"
       ]
     },
     {
@@ -74,8 +75,9 @@
         "IntelliJ",
         "Meteor",
         "MinGW",
-        "Vivado",
-        "Windows"
+        "Rider",
+        "Windows",
+        "Unity"
       ]
     }
   ],
@@ -86,13 +88,10 @@
       "studyType": "B.S.",
       "startDate": "2015-08-24",
       "endDate": "Present",
-      "gpa": "3.47",
+      "gpa": "3.41",
       "courses": [
         "EE160 - Programming for Engineers",
         "EE205 - Object Oriented Programming",
-        "EE211 - Basic Circuit Analysis I",
-        "EE213 - Basic Circuit Analusis II",
-        "EE260 - Introduction to Digital Design",
         "EE361 - Digital System & Computer Digital",
         "EE362 - Discrete Math for Engineers",
         "EE367 - Computer Data Structures & Algorithms",
