@@ -59,7 +59,7 @@
         "C#",
         "Java",
         "JavaScript",
-        "Semantic UI",
+        "Semantic UI"
       ]
     },
     {
@@ -88,12 +88,13 @@
       "studyType": "Bachelor of Science",
       "startDate": "2015-08-24",
       "endDate": "Present",
-      "gpa": "3.41",
+      "gpa": "3.31",
       "courses": [
         "EE160 - Programming for Engineers",
         "EE205 - Object Oriented Programming",
         "EE362 - Discrete Math for Engineers",
         "EE367 - Computer Data Structures & Algorithms",
+        "EE468 - Operating Systems",
         "EE491F - Intro to Game Design and Development",
         "ICS314 - Software Engineering I"
       ]
@@ -137,6 +138,18 @@
         "Contributed heavily to pages dealing with database manipulation and processing.",
         "Used Issue-Based Project Management to divide work and tackle issues consecutively.",
         "ICS314 final project to display skills with JavaScript, Meteor, MongoDB, and Semantic UI React."
+      ]
+    },
+    {
+      "organization": "Galaxy Guardian",
+      "position": "Software Developer",
+      "startDate": "2018-11-15",
+      "endDate": "2018-12-06",
+      "summary": "Created a game as a homage to Touhou and Ikaruga.",
+      "highlights": [
+        "Worked for 4 weeks in a team of 2 to complete the project.",
+        "Responsible for scripts focused on game flow, enemy controllers, and player control.",
+        "EE491F final project to recreate a game using Unity game engine and C#."
       ]
     }
   ],
