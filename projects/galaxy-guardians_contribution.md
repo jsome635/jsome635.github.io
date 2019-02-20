@@ -12,7 +12,7 @@ permalink: projects/galaxy-guardians/contribution
 
 <h2>Contribution to the Project</h2>
 
-<img class="ui centered rounded image" src="/images/galaxy-guardians/contribution.png">
+<img class="ui right float rounded image" src="/images/galaxy-guardians/contribution.png">
 
 <h4>Scripts and Control</h4>
 <p>
