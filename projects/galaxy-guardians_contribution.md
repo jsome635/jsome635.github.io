@@ -23,7 +23,3 @@ For this project, my main focus was coding the classes and functions that contro
 <p>
 My partner for this project was responsible for a lot of the code and creation pertaining to the appearance and ambiance of our game. However, creatign unique shapes or textures by hand in Unity can be difficult to impossible. To move this part of the project forward, we both spent some time to search for ways to create visuals easily and quickly so that we could complete the game by the deadline. After my partner had created the base objects for our game, we both sat down to browse the available textures on the Unity Assest store. Creating the multiple file for unique textures were outside of our skillset, so the best way to get textures and colors for our game were to use the free assests that other Unity developers had provided for the community. Lastly, the scrolling background and other visuals needed to be implemented in code. Although my partner did most of the coding for this aspect of the game, I offered suggestions and assistance to keep the workflow going as we began to reach the deadline of the project.
 </p>
-
-<p>
-The GitHub repo can be found <a href="https://github.com/look-n-cook/Look-n-Cook">here</a>.
-</p>
