@@ -24,7 +24,7 @@ summary: Created a game as a homage to other games in the Bullet Hell category.
 The idea of “Shoot ‘Em Up” (SHMUP) games initially started with the classic arcade game Space Invaders. In Space Invaders, the game is played vertically with the player facing/shooting upward and enemies facing/shooting downward. Space Invaders’ gameplay is fairly simplistic in that the enemies move in horizontally in rows and down slowly in columns. This concept gave way to many other well-known titles that would expand the category. Popular games like the Japanese Touhou series, Ikaruga, and Type-R fall under SHMUPs, but are also referred to as “Bullet Hell” games for their chaotic enemy and shooting patterns.
 </p>
 
-<img class="ui centered medium rounded image" src="/images/galaxy-guardians/overview.jpg">
+<img class="ui centered large rounded image" src="/images/galaxy-guardians/overview.jpg">
 
 <p>
 For this project, our primary aim was to create a game that represented the other games that fall under the Bullet Hell category by implementing the same visual feeling and concepts. Some commonalities in these games is that movement and attack patterns of enemies are scripted, the game is played in a long vertical window, and there scrolling graphics in the background. As a representation of those games, our game would use these commonalities to be recognizable as a Bullet Hell, but maintain an image of uniqueness rather than an exact copy. The additional features—like the start screen and end sequence—were secondary achievements that were fairly simple to implement, and gave it the feeling of an actual game.
