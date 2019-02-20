@@ -12,11 +12,11 @@ permalink: projects/galaxy-guardians/outcome
 
 <h2>Outcome</h2>
 
-<img class="ui centered rounded image" src="/images/look-n-cook/look-n-cook_outcome.png">
+<img class="ui centered rounded image" src="/images/galaxy-guardians/outcome.png">
 
 <p>
-At the end of the project, we were able to complete the majority of all the things that we had planned. For the most part, the pages we had created for the app resemble the pages that we had created mock-ups for. At the beginning of the project, we worried that the pages and functionality that we proposed for the project were unreasonable, and the app would end up looking very basic. I feel that we did a good job with everything that we were able to implement.
+At the end of the project, we were able to complete all of the main features that we had planned for the game. Presenting our project to the class, we were able to proudly showcase the end product of our efforts. At the beginning of the project, we had assumed that the project would be fairly quick and go by smoothly. As we dove into the depth of all the details, even a game 2D-scrolling Bullet Hell game can be quite difficult to implement.
 </p>
 <p>
-We were satisfied with the overall project, but we are not denying there was some issues that we wish we could have completed before the project ended. One big issue is that a user is unable to upload a unique image for his or her recipe. Added to that, we were not taught how to require users to sign up for an account to enter a official UH email. Other than that, there were also some small bugs that were noticed after completion of the project. An example of this is that any user can delete a comment on a recipe. The goal here was to make it so only the comment's poster, the recipe's poster, or an admin could remove comments; however, we were struggling with implementing that feature near the end of the project and could not complete it.
+We were exteremely satisfied with the outcome project, but there were some features like bombs or shields that we wish we could have implemented. Additionally, there seemed to be a bug the would occasionally occur that made a random enemy attack in a way that wasn't intended, but it only made a small portion of the game insanely difficult rather than being game breaking. Other than that, there were no other issues with the game. We also had some talk about including background music, laser or explosion sounds, or destuction animations, but we had reached the deadline of the project and it was not something that was taught to us as part of the class.
 </p>
